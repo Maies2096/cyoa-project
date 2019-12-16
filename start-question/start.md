@@ -6,7 +6,6 @@
 * [Pick lock it *obviously*](../pick-lock/open.md)
 * [I couldn't care less about it](../could-not-care-less/ask.md)
 
-
 ---
 
 [Go Back To The Main Page](../README.md)

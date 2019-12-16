@@ -1,5 +1,5 @@
 # The door won't open by itself- you need a key.
-## What will you do?
+### What will you do?
 
 ---
 

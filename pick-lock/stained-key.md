@@ -1,10 +1,9 @@
+# You decide to look for a key. You find the key needed to open the door.
+### It is stained, with what looks like blood, and rusty. What will you do?
+
 ---
 
-*You decide to look for a key. You find the key.**
-**It is stained and rusty. What will you do?**
-
-* [Leave it, you never know what that stain is](fix this)
-
+* [Leave it, you never know what that stain is](../could-not-care-less/ask.md)
 * [Who cares - go for it](../pick-lock/unlocked-door.md)
 
 ---

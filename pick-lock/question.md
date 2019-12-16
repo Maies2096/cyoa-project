@@ -1,10 +1,9 @@
+# The shadow starts running towards you. It broke the door open.
+### What will you do?
+
 ---
 
-**The shadow starts running towards you. It broke the door open.**
-**What do you do?**
-
-* [Get ready to fight - I know kung fu](../pick-lock/lamb-sauce.md)
-
+* [Ima get ready to fight - I know kung fu](../pick-lock/lamb-sauce.md)
 * [Wait- it might need help](../pick-lock/lamb-sauce.md)
 
 ---

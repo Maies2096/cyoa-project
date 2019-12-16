@@ -1,7 +1,7 @@
----
+# You turn around, and try to show them to the door.
+### Before you know it- they hit you with their baton. You fall unconscious.
 
-**You turn around, and try to show them to the door but before you know it- they hit you with their baton.**
-**You fall unconscious**
+---
 
 * [Wait, what just happened?](../pick-lock/charles.md)
 

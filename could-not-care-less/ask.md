@@ -1,5 +1,5 @@
-# You ignored the door and continue on with your day. The door later starts to glow, but you are home alone.
-## What will you do?
+# You have decided to ignore the door and continue on with your day.
+### The door later starts to glow, but you are home alone. What will you do?
 
 ---
 
