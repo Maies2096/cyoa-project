@@ -1,10 +1,9 @@
+# The door won't open by itself- you need a key.
+## What will you do?
+
 ---
 
-**The door won't open by itself- you need a key.**
-**What will you do?**
-
 * [Look for a key](../pick-lock/stained-key.md)
-
 * [Ask the neighbors for help](../pick-lock/suspicious-neighbors.md)
 
 ---
