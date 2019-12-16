@@ -3,7 +3,7 @@
 **You ignored the door and continue on with your day. The door later starts to glow, but you are home alone.**
 **What will you do?**
 
-* [Check it out ](../could-not-care-less/filthy-bob.md)
+* [Check it out](../pick-lock/open.md)
 
 * [Invite friends over](../could-not-care-less/filthy-bob.md)
 

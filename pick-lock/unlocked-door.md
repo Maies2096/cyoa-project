@@ -3,9 +3,9 @@
 **The door is officially unlocked. There are clinging sounds on the other side.**
 **What will you do?**
 
-* [Follow it ](../pick-lock/follow.md)
+* [Follow it](../pick-lock/follow.md)
 
-* [Whatever](../pick-lock/let-it-be.md)
+* [Call the police- there is no way I'm getting murdered today!](../could-not-care-less/po-po.md)
 
 ---
 
