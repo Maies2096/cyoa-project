@@ -3,11 +3,9 @@
 
 ---
 
-* [Pick lock it **obviously**](../pick-lock/clown.md)
-* [I couldn't care less about it ;-;](../could-not-care-less/strman.md)
+* [Pick lock it **obviously**](../pick-lock/open.md)
+* [I couldn't care less about it ;-;](../could-not-care-less/glow.md)
 
-![](paths.png)
-Photo credit to [**valiunic**](https://pixabay.com/p-1345721/?no_redirect)
 
 ---
 
