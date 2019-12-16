@@ -1,8 +1,6 @@
-# Pick Lock It
-
 ---
 
-**It won't open by itself- you need a key.**
+**The door won't open by itself- you need a key.**
 **What will you do?**
 
 * [Look for a key](../pick-lock/stained-key.md)
@@ -12,4 +10,4 @@
 ---
 
 [Go Back To The Main Page](../README.md)
-[Start Over](../beginning/intro.md)
+[Start Over](../start-question/start.md)

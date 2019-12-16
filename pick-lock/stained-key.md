@@ -1,5 +1,3 @@
-#Look for a key
-
 ---
 
 *You decide to look for a key. You find the key.**
@@ -9,8 +7,7 @@
 
 * [Who cares - go for it](../pick-lock/unlocked-door.md)
 
-
 ---
 
 [Go Back To The Main Page](../README.md)
-[Start Over](../beginning/intro.md)
+[Start Over](../start-question/start.md)

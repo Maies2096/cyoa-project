@@ -1,7 +1,9 @@
+---
 
-**Congratulations- you are now James Charles's prisoner**
+**Congratulations- you are now James Charles' prisoner**
 **Tea officially spilled**
 
+---
 
 [Go Back To The Main Page](../README.md)
-[Start Over](../beginning/intro.md)
+[Start Over](../start-question/start.md)
