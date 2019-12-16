@@ -14,4 +14,4 @@ Click [here](start-question/start.md) to begin your course!
 
 Click [here](https://docs.google.com/drawings/d/1AXr2qveIypdNtwCgoxuj4LliRMG_pdmwErVU-fAyfgg/edit?usp=sharing) to see the diagram for this Choose Your Own Adventure!
 
-Made by [*Jennifer Delgado**](https://github.com/jenniferd8336) and [**Maie Sayed**](https://github.com/maies2096)
+Made by [**Jennifer Delgado**](https://github.com/jenniferd8336) and [**Maie Sayed**](https://github.com/maies2096)
