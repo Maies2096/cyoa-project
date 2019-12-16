@@ -2,6 +2,10 @@
 ### Before you know it- they hit you with their baton. You fall unconscious.
 
 ---
+![](baton.jpg)
+
+Photo credit **Dreamstime** ()
+
 
 * [Wait, what just happened?](../pick-lock/charles.md)
 
