@@ -3,6 +3,8 @@
 
 ![dizziness](dizziness.png)
 
+Photo Credit [**Cleaveland Clinic**](https://health.clevelandclinic.org/stand-suddenly-feel-dizzy-worry/)
+
 ---
 
 * [Call for help!](../pick-lock/charles.md)

@@ -2,6 +2,7 @@
 ### You see a shadow staring directly at you. It is mumbling. What do you do?
 
 ![shadow](shadow.png)
+
 Photo Credit [**alamy**](https://www.alamy.com/stock-photo-shadow-of-a-man-on-white-brick-wall-and-wooden-floor-73570451.html)
 ---
 
