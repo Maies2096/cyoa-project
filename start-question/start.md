@@ -3,8 +3,8 @@
 
 ---
 
-* [Pick lock it **obviously**](../pick-lock/open.md)
-* [I couldn't care less about it ;-;](../could-not-care-less/glow.md)
+* [Pick lock it *obviously*](../pick-lock/open.md)
+* [I couldn't care less about it](../could-not-care-less/ask.md)
 
 
 ---
