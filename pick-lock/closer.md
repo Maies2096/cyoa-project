@@ -1,6 +1,8 @@
 # Everything around you is rotating rapidly. You are getting dizzy.
 ### Your neighbors are inching closer. What will you do?
 
+![dizziness](dizziness.png)
+
 ---
 
 * [Call for help!](../pick-lock/charles.md)
