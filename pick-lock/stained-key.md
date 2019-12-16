@@ -5,9 +5,9 @@
 *You decide to look for a key. You find the key.**
 **It is stained and rusty. What will you do?**
 
-* [Leave it, you never know what that stain is](Dead-End.md)
+* [Leave it, you never know what that stain is](fix this)
 
-* [Who cares - go for it](Ran-Away.md)
+* [Who cares - go for it](../pick-lock/unlocked-door.md)
 
 
 ---
