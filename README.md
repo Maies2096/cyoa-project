@@ -1,7 +1,6 @@
 # Jennifer-Maie CYOA
-## Purpose
 
-## Description
+## Purpose/Description
 In this project, we were assigned to create our own "Adventure" by using our prior knowledge of linking, merging, and collaborating on Git and GitHub.
 This project, we learn how to place links, aka file paths, on GitHub, that take users to another page.
 
