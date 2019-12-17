@@ -4,7 +4,7 @@
 ---
 
 * [Sure they look different from the ones back home, but that doesn't mean they are not official. Ride with them](../pick-lock/charles.md)
-* [Refuse their request, stay home, and figure it out yourself](../pick-lock/baton.md)
+* [Refuse their request, stay home, and figure it out yourself](../could-not-care-less/baton.md)
 
 ---
 
