@@ -1,9 +1,8 @@
 # You just got pinned-down. You turn around, and find out the shadow is actually Gordon.
 ### He is aggrivated, and asks you for the lamb sauce. What will you do?
 
-![WHERE IS THE LAMB SAUSE?!](lamb-sauce.jpg)
+![lamb-sauce](https://user-images.githubusercontent.com/43858716/70955674-adda1300-203f-11ea-8540-23059c22c1b3.gif)
 
-Photo Credit [**Make a Meme**](https://makeameme.org/meme/wheres-the-lamb-3809682f0d)
 ---
 
 * [This might be a one-in-a-lifetime-situation, conversate with Gordon](../pick-lock/pan.md)
