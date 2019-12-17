@@ -3,7 +3,7 @@
 
 ![Cookies](cookies.jpg)
 
-Photo Credit [**Dessert for Two](https://www.dessertfortwo.com/wp-content/uploads/2016/04/small-batch-chocolate-chip-cookies-1-720x540.jpg)
+Photo Credit [**Dessert for Two**](https://www.dessertfortwo.com/wp-content/uploads/2016/04/small-batch-chocolate-chip-cookies-1-720x540.jpg)
 ---
 
 * [Eat it, I'm hungry ](../pick-lock/closer.md)

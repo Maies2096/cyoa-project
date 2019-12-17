@@ -2,7 +2,7 @@
 ### What will you do?
 ![broken door](broken-door.jpg)
 
-Photo Credit [Twitter](https://pbs.twimg.com/media/DnVE9eJUUAAf-eZ.jpg:large)
+Photo Credit [**Twitter**](https://pbs.twimg.com/media/DnVE9eJUUAAf-eZ.jpg:large)
 ---
 
 * [Ima get ready to fight - I know kung fu](../pick-lock/lamb-sauce.md)
