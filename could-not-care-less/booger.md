@@ -5,7 +5,7 @@
 ![hand-sanitizer](https://user-images.githubusercontent.com/43858716/70954439-3609e980-203b-11ea-9b89-08f059e7e8de.gif)
 -
 
-* [pour sanitizer all over that sofa](../could-not-care-less/revenge.md)
+* [pour sanitizer all over that sooka](../could-not-care-less/revenge.md)
 * [kek his arse owt uf ze howce mayte](../could-not-care-less/revenge.md)
 
 ---
